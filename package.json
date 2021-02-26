@@ -1,0 +1,9 @@
+{
+  "name": "@scope/container",
+  "version": "1.0.0",
+  "license": "MIT",
+  "workspaces": [
+    "web",
+    "webhost"
+  ]
+}
